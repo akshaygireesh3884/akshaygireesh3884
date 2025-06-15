@@ -4,11 +4,6 @@
 
 ---
 
-- 🧑‍💻 **Total IT Experience:** 5 years
-- 💻 **Frontend Experience:** 4 years
-
----
-
 ## 🚀 Tech Stack
 
 - **Languages & Frameworks:**  
